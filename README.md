@@ -15,4 +15,8 @@
 
 ## **Sports or Physical Activites**
 
-</p> I played tennis over the summer and tried to improve my skills. I hope to learn Java in this computer science class. </p>
+</p> I played tennis over the summer and tried to improve my skills. 
+
+## **Expectations for this Class**
+
+<p>I look forward to learning Java in this computer science class and getting a 5 on the ap test aswell as a A for the overall course grade.</p>
