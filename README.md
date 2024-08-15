@@ -5,6 +5,7 @@
 
 ## **Summer Activities**
 <p> During the Summer I went to New York City and stayed with famnily and had a good time. The most memorable experience I had was going the summit vanderbilt in  New York City. It was unlike anything I have seen before, it was very creative and interactive. The views from the building were also amazing.</p>
+![Crowd+at+The+Summit+at+One+Vanderbilt](https://github.com/user-attachments/assets/97d80c8e-5cd9-4021-83db-9c0ea1ed515e)
 
 ## **Learning Experiences**
 <p> I took Spanish 2 over the summer. I learned many new words, rules, and verbs in Spanish. This class helped me improve my Spanish Language skills, and I plan to take Spanish 3 next summer aswell. </p>
